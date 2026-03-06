@@ -3,3 +3,11 @@
 TODO:
 1. Have a startup script with instructions to install requirements. Run it from the notebook.
 2. Write instructions to run it on a browser (Google Collab).
+
+
+## TASK DIVISION:
+1. Notebook part 1 (Concepts) + part 4 (Survey): Diptyaroop
+2. Notebook part 2 (Interactive playground): Neha
+3. Notebook part 3 (Code snippet): Jinsong
+
+### Multiple people may work on the same thing if required.
