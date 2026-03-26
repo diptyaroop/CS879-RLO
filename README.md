@@ -8,6 +8,6 @@ TODO:
 ## TASK DIVISION:
 1. Notebook part 1 (Concepts) + part 4 (Survey): Diptyaroop -- **done. May finetune the text again.**
 2. Notebook part 2 (Interactive playground): Neha -- **done**
-3. Notebook part 3 (Code snippet): Jinsong
+3. Notebook part 3 (Code snippet): Jinsong -- **done**
 
 ### Multiple people may work on the same thing if required.
