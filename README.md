@@ -6,7 +6,7 @@ TODO:
 
 
 ## TASK DIVISION:
-1. Notebook part 1 (Concepts) + part 4 (Survey): Diptyaroop
+1. Notebook part 1 (Concepts) + part 4 (Survey): Diptyaroop -- **done. May finetune the text again.**
 2. Notebook part 2 (Interactive playground): Neha
 3. Notebook part 3 (Code snippet): Jinsong
 
